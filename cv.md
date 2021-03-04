@@ -16,3 +16,14 @@ In 2015 I entered Belarusian State University of Informatics and Radioelectronic
 - JavaScript (beginner)
 - SQL Databases (beginner)
 - C# (beginner)
+
+#### Software
+- Visual Studio Code
+- MS Visual Studio
+- MS SQL Server Management Studio
+- ERwin Data Modeler
+
+## Education
+- Gymnasium №17, Minsk graduate of 2013.
+- Secondary school № 4, Minsk graduate of 2015.
+- Belarusian State University of Informatics and Radioelectronics graduate of 2019.
